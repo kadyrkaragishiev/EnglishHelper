@@ -17,7 +17,7 @@ namespace GameCore
         private QuestionView _questionView;
 
         private int _currentProgress = -1;
-        
+
         [SerializeField]
         private TextMeshProUGUI scoreText;
 
@@ -29,7 +29,8 @@ namespace GameCore
             set
             {
                 _score = value;
-                scoreText.text = _score.ToString()+ "/" + _currentQuiz.questions.Count;
+                scoreText.text = _score.ToString() + "/" + _currentQuiz.questions.Count + "\n" +
+                                 "Пройдено вопросов: " + _currentProgress+"/"+_currentQuiz.questions.Count;
             }
         }
 
@@ -43,11 +44,14 @@ namespace GameCore
         public void ChangeQuestion()
         {
             _currentProgress++;
-            if(_currentProgress >= _currentQuiz.questions.Count-1)
+            if (_currentProgress >= _currentQuiz.questions.Count - 1)
             {
                 SceneManager.LoadScene(0);
                 return;
             }
+
+            _scoreToAdd = _score;
+
             _questionView.ChangeQuestion(_currentQuiz.questions[_currentProgress]);
         }
 
@@ -55,6 +59,7 @@ namespace GameCore
         private static Random _rng = new Random();
 
         public void UpdateScore() => _scoreToAdd++;
+
         public static void Shuffle<T>(IList<T> list)
         {
             var n = list.Count;
