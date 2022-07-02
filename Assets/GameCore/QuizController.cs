@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -8,8 +9,11 @@ namespace GameCore
 {
     public class QuizController : MonoBehaviour
     {
+        // [SerializeField]
+        // private Quiz _scriptableQuiz;
+
         [SerializeField]
-        private Quiz _scriptableQuiz;
+        private QuizLoader _loader;
 
         private Quiz _currentQuiz;
 
@@ -30,16 +34,17 @@ namespace GameCore
             {
                 _score = value;
                 scoreText.text = _score.ToString() + "/" + _currentQuiz.questions.Count + "\n" +
-                                 "Пройдено вопросов: " + _currentProgress+"/"+_currentQuiz.questions.Count;
+                                 "Пройдено вопросов: " + _currentProgress + "/" + _currentQuiz.questions.Count;
             }
         }
 
-        private void Start()
-        {
-            _currentQuiz = _scriptableQuiz;
-            Shuffle(_currentQuiz.questions);
-            ChangeQuestion();
-        }
+        private async void Start() =>
+            await _loader.Load((quiz =>
+            {
+                _currentQuiz = quiz;
+                Shuffle(_currentQuiz.questions);
+                ChangeQuestion();
+            }));
 
         public void ChangeQuestion()
         {

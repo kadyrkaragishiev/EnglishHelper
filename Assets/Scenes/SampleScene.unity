@@ -1269,6 +1269,7 @@ GameObject:
   - component: {fileID: 1275990975}
   - component: {fileID: 1275990976}
   - component: {fileID: 1275990977}
+  - component: {fileID: 1275990978}
   m_Layer: 5
   m_Name: QuestionField
   m_TagString: Untagged
@@ -1352,9 +1353,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 215b7addcdb643ddb31bbe44d0080fe4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _scriptableQuiz: {fileID: 11400000, guid: e9b35d76ebb2645a187709b421478723, type: 2}
+  _loader: {fileID: 1275990978}
   _questionView: {fileID: 1275990976}
   scoreText: {fileID: 1924548364}
+--- !u!114 &1275990978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1275990973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bfdcc850dcb544eebec59dfd3f0a6d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  quizData: {fileID: 4900000, guid: 89724eaa1221a498da10442c1eb91e1b, type: 3}
 --- !u!1 &1462396326
 GameObject:
   m_ObjectHideFlags: 0
@@ -1597,7 +1611,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1637352986}
   - component: {fileID: 1637352987}
-  - component: {fileID: 1637352988}
   - component: {fileID: 1637352989}
   m_Layer: 5
   m_Name: '[Container] Score'
@@ -1647,35 +1660,6 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: 0.49
   m_LayoutPriority: 1
---- !u!114 &1637352988
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1637352985}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Delegates:
-  - eventID: 4
-    callback:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 1275990977}
-          m_TargetAssemblyTypeName: GameCore.QuizController, Assembly-CSharp
-          m_MethodName: UpdateScore
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
 --- !u!114 &1637352989
 MonoBehaviour:
   m_ObjectHideFlags: 0
