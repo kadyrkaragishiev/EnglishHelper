@@ -1,0 +1,460 @@
+{
+  "questions": [
+    {
+      "QuestionText": "достижение",
+      "AnswerText": "achievement"
+    },
+    {
+      "QuestionText": "Налет, внезапное нападение",
+      "AnswerText": "Raid "
+    },
+    {
+      "QuestionText": "Ухудшаться",
+      "AnswerText": "Deteriorate "
+    },
+    {
+      "QuestionText": "предложить должность",
+      "AnswerText": "offer a position"
+    },
+    {
+      "QuestionText": "Стремительно повышаться",
+      "AnswerText": "Soar "
+    },
+    {
+      "QuestionText": "внести в список кандидатов",
+      "AnswerText": "shortlist"
+    },
+    {
+      "QuestionText": "Опускаться, снижаться, ухудшаться",
+      "AnswerText": "Decline "
+    },
+    {
+      "QuestionText": "Выровняться",
+      "AnswerText": "Level off "
+    },
+    {
+      "QuestionText": "Ген",
+      "AnswerText": "Gene"
+    },
+    {
+      "QuestionText": "Просачиваться, пробиваться",
+      "AnswerText": "Filter through "
+    },
+    {
+      "QuestionText": " вносить ценный вклад",
+      "AnswerText": "make a valuable contribution to"
+    },
+    {
+      "QuestionText": "уходить на пенсию",
+      "AnswerText": "retire"
+    },
+    {
+      "QuestionText": "Жирная точка (наборный знак в тексте для выделения пунктов и подпунктов)",
+      "AnswerText": "Bullet point  "
+    },
+    {
+      "QuestionText": "Идти вверх, увеличиваться",
+      "AnswerText": "Go up "
+    },
+    {
+      "QuestionText": "take on ownership",
+      "AnswerText": "брать на себя ответственность"
+    },
+    {
+      "QuestionText": "однообразный механический труд",
+      "AnswerText": "treadmill "
+    },
+    {
+      "QuestionText": "Подниматься",
+      "AnswerText": "Rise "
+    },
+    {
+      "QuestionText": "Шрифт",
+      "AnswerText": "Font "
+    },
+    {
+      "QuestionText": " (Очень) вероятно",
+      "AnswerText": "It is (highly) likely  "
+    },
+    {
+      "QuestionText": "Стабилизировать(ся)",
+      "AnswerText": "Stabilize "
+    },
+    {
+      "QuestionText": "уместный",
+      "AnswerText": "relevant "
+    },
+    {
+      "QuestionText": "лишенный привилегий, прав ",
+      "AnswerText": "underprivileged"
+    },
+    {
+      "QuestionText": "справляться с чем-либо",
+      "AnswerText": "cope with"
+    },
+    {
+      "QuestionText": "подать заявление на должность/работу",
+      "AnswerText": "apply for a job"
+    },
+    {
+      "QuestionText": "специалист по подбору высококвалифицированного персонала",
+      "AnswerText": "headhunter"
+    },
+    {
+      "QuestionText": "давать обязательство",
+      "AnswerText": "make a commitment to "
+    },
+    {
+      "QuestionText": "Достичь высоты",
+      "AnswerText": "Reach a high "
+    },
+    {
+      "QuestionText": "немедленно, сразу же, не откладывая в долгий ящик",
+      "AnswerText": "on the spot "
+    },
+    {
+      "QuestionText": "Выделить",
+      "AnswerText": "Highlight "
+    },
+    {
+      "QuestionText": "Судьбоносный",
+      "AnswerText": "Crucial "
+    },
+    {
+      "QuestionText": "нанимать",
+      "AnswerText": "hire"
+    },
+    {
+      "QuestionText": "сокращать (штат), увольнять",
+      "AnswerText": "make redundant "
+    },
+    {
+      "QuestionText": "Точка безубыточного производства, точка самоокупаемости. ",
+      "AnswerText": "Break even point "
+    },
+    {
+      "QuestionText": "Опускать(ся), погружать(ся)",
+      "AnswerText": "Dip "
+    },
+    {
+      "QuestionText": "не обращая внимания на;  не считаясь с;  независимо от;",
+      "AnswerText": "regardless of"
+    },
+    {
+      "QuestionText": "инерция",
+      "AnswerText": "Inertia"
+    },
+    {
+      "QuestionText": "Обезличивать, усреднять",
+      "AnswerText": "Homogenize"
+    },
+    {
+      "QuestionText": "талон на бесплатный  обед",
+      "AnswerText": "luncheon voucher"
+    },
+    {
+      "QuestionText": "Многозадачность",
+      "AnswerText": "multitasking"
+    },
+    {
+      "QuestionText": "бесплатная медицинская страховка",
+      "AnswerText": "free medical insurance"
+    },
+    {
+      "QuestionText": "Перегрузить  (информацией, работой)",
+      "AnswerText": "Overload "
+    },
+    {
+      "QuestionText": "условия, удобства",
+      "AnswerText": "facilities"
+    },
+    {
+      "QuestionText": "работать в жестких временных рамках",
+      "AnswerText": "work to strict deadlines "
+    },
+    {
+      "QuestionText": "Сноска, примечание",
+      "AnswerText": "Footnote "
+    },
+    {
+      "QuestionText": "Быть в убытке, нести убытки",
+      "AnswerText": "Be in the red "
+    },
+    {
+      "QuestionText": "Основные сведения по вопросу",
+      "AnswerText": "Background "
+    },
+    {
+      "QuestionText": "уходить в отставку, увольняться ",
+      "AnswerText": "resign"
+    },
+    {
+      "QuestionText": "совершить необдуманный поступок, браться за что-то без должной подготовки",
+      "AnswerText": "jump in at the deep end "
+    },
+    {
+      "QuestionText": "оставаться до конца, оставаться на месте",
+      "AnswerText": "stay out"
+    },
+    {
+      "QuestionText": "бесплатное жилье",
+      "AnswerText": " free accommodation "
+    },
+    {
+      "QuestionText": " Первичный выпуск ценных бумаг",
+      "AnswerText": "IPO –Initial Public Offering) "
+    },
+    {
+      "QuestionText": "оправиться после неудачи, стать на ноги",
+      "AnswerText": "find your feet "
+    },
+    {
+      "QuestionText": " Прибыльность, рентабельность",
+      "AnswerText": "Profitability"
+    },
+    {
+      "QuestionText": "Доход",
+      "AnswerText": "Income"
+    },
+    {
+      "QuestionText": "Активы компании",
+      "AnswerText": "Assets"
+    },
+    {
+      "QuestionText": " Впечатлительный, подверженный, неустойчивый",
+      "AnswerText": "Susceptible"
+    },
+    {
+      "QuestionText": "потрясающий",
+      "AnswerText": "earth-shattering"
+    },
+    {
+      "QuestionText": "ощутимый, осязаемый, материальный ",
+      "AnswerText": "tangible"
+    },
+    {
+      "QuestionText": "назначать",
+      "AnswerText": "appoint"
+    },
+    {
+      "QuestionText": "сильная сторона",
+      "AnswerText": "strength"
+    },
+    {
+      "QuestionText": "Отвлекать",
+      "AnswerText": "Distract "
+    },
+    {
+      "QuestionText": "участие в прибыли компании",
+      "AnswerText": "profit sharing"
+    },
+    {
+      "QuestionText": "Текст, выделенный жирным шрифтом",
+      "AnswerText": "bold text"
+    },
+    {
+      "QuestionText": "уходить в длительный отпуск с сохранением содержания, академический/творческий отпуск",
+      "AnswerText": "take a sabbatical"
+    },
+    {
+      "QuestionText": "необычный",
+      "AnswerText": "unconventional"
+    },
+    {
+      "QuestionText": "Значительный",
+      "AnswerText": "Significant "
+    },
+    {
+      "QuestionText": "Достигать вершины",
+      "AnswerText": "Peak "
+    },
+    {
+      "QuestionText": "Поглощение",
+      "AnswerText": "Take over"
+    },
+    {
+      "QuestionText": " Неопределённый; туманный  ",
+      "AnswerText": "Vague "
+    },
+    {
+      "QuestionText": "Приобритение",
+      "AnswerText": "Acquisition "
+    },
+    {
+      "QuestionText": "Престижный",
+      "AnswerText": "Prestigious "
+    },
+    {
+      "QuestionText": "пенсионная схема\\план ",
+      "AnswerText": "pension plan"
+    },
+    {
+      "QuestionText": "отмечать, помечать",
+      "AnswerText": "flag"
+    },
+    {
+      "QuestionText": "начать действовать, ,  запустить процесс",
+      "AnswerText": "start the ball rolling"
+    },
+    {
+      "QuestionText": "опцион на акцию, право купить акцию по льготной цене",
+      "AnswerText": "stock option"
+    },
+    {
+      "QuestionText": "вручить, передать",
+      "AnswerText": "Hand"
+    },
+    {
+      "QuestionText": "Колебаться, быть неустойчивым",
+      "AnswerText": "Fluctuate "
+    },
+    {
+      "QuestionText": "Внезапный",
+      "AnswerText": "Sudden "
+    },
+    {
+      "QuestionText": "противоречивый",
+      "AnswerText": "controversial"
+    },
+    {
+      "QuestionText": "Быть в прибыли",
+      "AnswerText": "Be  in the black"
+    },
+    {
+      "QuestionText": "Зачисление на курс без вступительных испытаний.",
+      "AnswerText": "Open enrolment "
+    },
+    {
+      "QuestionText": " Доход, остающийся после уплаты налогов; наличный доход; реальный доход ",
+      "AnswerText": "Disposable income"
+    },
+    {
+      "QuestionText": "knock over",
+      "AnswerText": "свалить, сбить"
+    },
+    {
+      "QuestionText": "слабая сторона",
+      "AnswerText": "weakness"
+    },
+    {
+      "QuestionText": "Изменять(ся)",
+      "AnswerText": "Vary "
+    },
+    {
+      "QuestionText": "Внезапно или резко падать  ",
+      "AnswerText": "Slump "
+    },
+    {
+      "QuestionText": "Движение наличных средств",
+      "AnswerText": "Cashflow"
+    },
+    {
+      "QuestionText": "обращаться за консультацией, просить совета",
+      "AnswerText": "pick someone’s brains"
+    },
+    {
+      "QuestionText": " Футси 100 (публикуемый газетой \"Файнэншл таймс\" индекс, основанный на курсах акций 100 ведущих компаний) ",
+      "AnswerText": "FTSE 100 "
+    },
+    {
+      "QuestionText": "manage a busy workload",
+      "AnswerText": "справляться с большой нагрузкой"
+    },
+    {
+      "QuestionText": "Значительный",
+      "AnswerText": "Considerable "
+    },
+    {
+      "QuestionText": "Становиться безубыточным",
+      "AnswerText": "Break even "
+    },
+    {
+      "QuestionText": "Выстрелить (в переносном значении)",
+      "AnswerText": "Shoot up "
+    },
+    {
+      "QuestionText": "честолюбец, карьерист,  “хочу быть как…”",
+      "AnswerText": "wannabe"
+    },
+    {
+      "QuestionText": "исполнительный/генеральный директор компании",
+      "AnswerText": "CEO"
+    },
+    {
+      "QuestionText": "Резко увеличиться, нахлынуть",
+      "AnswerText": "Surge "
+    },
+    {
+      "QuestionText": "Опустить(ся), понизить(ся)",
+      "AnswerText": "Sink "
+    },
+    {
+      "QuestionText": "Удваивать(ся)",
+      "AnswerText": "Double  "
+    },
+    {
+      "QuestionText": "отряд, компания друзей",
+      "AnswerText": "posse"
+    },
+    {
+      "QuestionText": "владеть навыками ведения переговоров",
+      "AnswerText": "possess strong negotiating skills"
+    },
+    {
+      "QuestionText": " Это обязано случиться  ( произойти)",
+      "AnswerText": "It is bound to happen"
+    },
+    {
+      "QuestionText": "отступить, отстраниться",
+      "AnswerText": "step back"
+    },
+    {
+      "QuestionText": "Курсив",
+      "AnswerText": "Italics "
+    },
+    {
+      "QuestionText": "увольнять",
+      "AnswerText": "dismiss "
+    },
+    {
+      "QuestionText": "полоса препятствий",
+      "AnswerText": "assault course"
+    },
+    {
+      "QuestionText": "студент, обучающийся по основным программам высшего образования ",
+      "AnswerText": "undergraduate"
+    },
+    {
+      "QuestionText": "проявлять инициативу",
+      "AnswerText": "take initiative"
+    },
+    {
+      "QuestionText": "Упасть",
+      "AnswerText": "Drop "
+    },
+    {
+      "QuestionText": "экологический",
+      "AnswerText": "eco"
+    },
+    {
+      "QuestionText": " Скользить",
+      "AnswerText": "Slide"
+    },
+    {
+      "QuestionText": "Взлетать",
+      "AnswerText": "Take off "
+    },
+    {
+      "QuestionText": "Дочерняя компания, «дочка»",
+      "AnswerText": "Subsidiary "
+    },
+    {
+      "QuestionText": "взаимодействовать, работать в контакте",
+      "AnswerText": "liaise"
+    },
+    {
+      "QuestionText": "Руководитель, начальник",
+      "AnswerText": "Executive"
+    }
+  ]
+}
